@@ -6,13 +6,12 @@
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/mutability/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/dataTypes/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11bcaf-99b3-4fb3-aab1-857b74700b2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/mutability/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cargo.Run dataTypes.executor": "Run",
     "Cargo.Run mutability.executor": "Run",
     "Cargo.Run rustprac.executor": "Run",
     "Cargo.Test rustprac.executor": "Run",
@@ -58,7 +58,24 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cargo.Run dataTypes">
+    <configuration name="Run dataTypes" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package dataTypes --bin dataTypes" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/dataTypes" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run mutability" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package mutability --bin mutability" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$/mutability" />
@@ -78,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run dataTypes" />
         <item itemvalue="Cargo.Run mutability" />
       </list>
     </recent_temporary>
@@ -95,7 +113,7 @@
       <updated>1706729916344</updated>
       <workItem from="1706729919702" duration="125000" />
       <workItem from="1706730114605" duration="703000" />
-      <workItem from="1706730828468" duration="1018000" />
+      <workItem from="1706730828468" duration="2118000" />
     </task>
     <servers />
   </component>
