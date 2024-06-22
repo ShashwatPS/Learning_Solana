@@ -1,41 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/mutability/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/dataTypes/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Rust/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11bcaf-99b3-4fb3-aab1-857b74700b2d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/dataTypes/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/output-bin-dataTypes" beforeDir="false" afterPath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/output-bin-dataTypes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/dataTypes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dataTypes/target/debug/dataTypes.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/deps/dataTypes-ec9e38eed4673a80.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dataTypes/target/debug/deps/dataTypes-ec9e38eed4673a80.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/11jvlsgjc4ajkcc8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/16xnzt8fx2hafwgq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/2ulc7sfq84b7hlr6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/4tygq35rnneadezf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/4xh7snjckm00cqxj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/6ynm7flx16d6gf3.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/dep-graph.part.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4-working/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziab0tdj-f8hkr4.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/11jvlsgjc4ajkcc8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/16xnzt8fx2hafwgq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/2ulc7sfq84b7hlr6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/4tygq35rnneadezf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/4xh7snjckm00cqxj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/6ynm7flx16d6gf3.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04-5sfjwv68nsdh7jh7kg7prnk73/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gsziafb88c-o2zn04.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-cef4908cde9b612e/bin-dataTypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-cef4908cde9b612e/bin-dataTypes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-cef4908cde9b612e/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/bin-dataTypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/bin-dataTypes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/dep-bin-dataTypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-ec9e38eed4673a80/output-bin-dataTypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-edb4c0cbdbc31850/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-edb4c0cbdbc31850/test-bin-dataTypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/.fingerprint/dataTypes-edb4c0cbdbc31850/test-bin-dataTypes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/dataTypes.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/dataTypes.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/deps/dataTypes-ec9e38eed4673a80.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/deps/dataTypes-ec9e38eed4673a80.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/11jvlsgjc4ajkcc8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/16xnzt8fx2hafwgq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/2ulc7sfq84b7hlr6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/4tygq35rnneadezf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/4xh7snjckm00cqxj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/6ynm7flx16d6gf3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480-1l8umdh2dn7mcwdj8onqd7fgb/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTypes/target/debug/incremental/dataTypes-16xmfqag0evs0/s-gszief3izf-iig480.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-2043787e57b45b68/bin-mutability" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-2043787e57b45b68/bin-mutability.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-2043787e57b45b68/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-a534920dfb490b83/bin-mutability" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-a534920dfb490b83/bin-mutability.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-a534920dfb490b83/dep-bin-mutability" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-a534920dfb490b83/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-bf2004009b8560cd/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-bf2004009b8560cd/test-bin-mutability" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/.fingerprint/mutability-bf2004009b8560cd/test-bin-mutability.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/deps/mutability-a534920dfb490b83.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/deps/mutability-a534920dfb490b83.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/1a0xuv6xxyf15lrl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/1zq6blh7sltchv7f.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/2lnfbh7kvkilvi0b.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/2smrpmejlm5gv00m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/loh7hwcpphm9r7y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/oaaxcfk9nm8jb1n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9-9eu5to9dcr3ov1kl4pj306ce1/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/incremental/mutability-5vfirt88vnev/s-gszhsdgtcv-bgqco9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/mutability.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutability/target/debug/mutability.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,24 +102,45 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cargo.Run Learning_Solana.executor": "Run",
     "Cargo.Run dataTypes.executor": "Run",
     "Cargo.Run mutability.executor": "Run",
     "Cargo.Run rustprac.executor": "Run",
     "Cargo.Test rustprac.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/shash/Desktop/rustprac/mutability/Cargo.toml",
+    "last_opened_file_path": "C:/Users/shash/Desktop/Learning_Solana",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run dataTypes">
+  <component name="RunManager" selected="Cargo.Run Learning_Solana">
+    <configuration name="Run Learning_Solana" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package Learning_Solana --bin Learning_Solana" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run dataTypes" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package dataTypes --bin dataTypes" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$/dataTypes" />
@@ -119,8 +177,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cargo.Run dataTypes" />
+        <item itemvalue="Cargo.Run Learning_Solana" />
         <item itemvalue="Cargo.Run mutability" />
+        <item itemvalue="Cargo.Run dataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +197,9 @@
       <workItem from="1706729919702" duration="125000" />
       <workItem from="1706730114605" duration="703000" />
       <workItem from="1706730828468" duration="2416000" />
+      <workItem from="1719026687754" duration="69000" />
+      <workItem from="1719026764103" duration="168000" />
+      <workItem from="1719026945429" duration="118000" />
     </task>
     <servers />
   </component>
