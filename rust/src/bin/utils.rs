@@ -18,3 +18,9 @@ pub fn get_first_name(str: String) -> String {
     }
     return first_name;
 }
+
+pub fn print_num(){
+    for ind in 1..101 {
+        println!("{}",ind);
+    }
+}

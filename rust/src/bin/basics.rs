@@ -1,4 +1,4 @@
-use crate::utils::get_first_name;
+use crate::utils::{get_first_name, print_num};
 
 //Modules
 mod utils;
@@ -14,4 +14,6 @@ fn main() {
 
     let firstName = utils::get_first_name(String::from("shashwat pratap singh"));
     print!("The first name is: {}",firstName);
+
+    print_num();
 }

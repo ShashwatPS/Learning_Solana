@@ -9,10 +9,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a1bf0ad-965b-4112-b114-bfbabc545f3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rust/src/bin/utils.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rust/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rust/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rust/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rust/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rust/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/rust/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/src/bin/basics.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rust/src/bin/basics.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/src/bin/utils.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rust/src/bin/utils.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/.fingerprint/rust-801596bd0ae0e2ac/output-bin-basics" beforeDir="false" afterPath="$PROJECT_DIR$/rust/target/debug/.fingerprint/rust-801596bd0ae0e2ac/output-bin-basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/basics.exe" beforeDir="false" afterPath="$PROJECT_DIR$/rust/target/debug/basics.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/deps/basics-801596bd0ae0e2ac.exe" beforeDir="false" afterPath="$PROJECT_DIR$/rust/target/debug/deps/basics-801596bd0ae0e2ac.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/109thsd3qjkbfuy8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/136hxf7w5f15m3ew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/18t8rrwbi1h4p299.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/18vjwwmo8jz0ow9n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/1hyb7xwjsp1omztf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/1um7bclsz6qyk3by.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2furvpvij87u9fi5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2g4gue1azf16g9n6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2pvkdc61ny0tsoft.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2qmcixpzaeil45ho.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2trtpl7m42t7d8vx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2txtr70rbll34wdr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/2vglfyc03zj3p97i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/3rf0ufcmvrv5j78o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/3vz0jfgdn0ev5fx3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/4dfohaf8rb8ts56j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/4dua8odaz9h672k8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/4nimajpe48rqbx1d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/4ojyui68pko3boq4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/4vv884lnrm2j9cr1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/57t9dazf3yg3kej2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/lw4o5k5es00ulnn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q-dubsxa8qwn1m9d6fsuogmom7u/zhihyrkkdq71im2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/target/debug/incremental/basics-jm28pywu2hv9/s-gxeja3whk1-17ulp8q.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +73,7 @@
   "keyToString": {
     "Cargo.Run Learning_Solana.executor": "Run",
     "Cargo.Run basics.executor": "Run",
+    "Cargo.Run mutability.executor": "Run",
     "Cargo.Run rust.executor": "Run",
     "Cargo.Run variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +87,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run basics">
+  <component name="RunManager" selected="Cargo.Run mutability">
     <configuration name="Run Learning_Solana" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package Learning_Solana --bin Learning_Solana" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -77,6 +107,23 @@
     </configuration>
     <configuration name="Run basics" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package rust --bin basics" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/Rust" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run mutability" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package rust --bin mutability" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$/Rust" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -128,6 +175,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run mutability" />
         <item itemvalue="Cargo.Run basics" />
         <item itemvalue="Cargo.Run variables" />
         <item itemvalue="Cargo.Run rust" />
@@ -154,7 +202,7 @@
       <workItem from="1719171558104" duration="1646000" />
       <workItem from="1719193057135" duration="898000" />
       <workItem from="1719193981212" duration="234000" />
-      <workItem from="1719194227328" duration="795000" />
+      <workItem from="1719194227328" duration="1489000" />
     </task>
     <servers />
   </component>
